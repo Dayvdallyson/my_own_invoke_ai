@@ -7,13 +7,23 @@ This project starts from a direct HTTP request to the Anthropic API using Python
 Current flow:
 
 Python
+  
   ↓
+  
 HTTP request
+  
   ↓
+  
 Anthropic API
+  
   ↓
+  
 Claude
+  
   ↓
+  
 JSON response
+  
   ↓
+  
 Assistant message
